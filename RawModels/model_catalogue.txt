@@ -1,0 +1,18 @@
+name: Wall, modelId: 0, textures: (wall1.bmp, wall2.bmp, wall3.bmp, wall4.bmp), textureSize: (64 * 64), file: terrain_models.obj
+
+name: Floor, modelId: 16, textures: (floor1.bmp, floor2.bmp, floor3.bmp, floor4.bmp), textureSize: (64 * 64), file: terrain_models.obj
+
+name: Ramp (+ u), modelId: 32, textures: ramp1.bmp, textureSize: (64 * 64), file: terrain_models.obj
+
+name: Ramp (- u), modelId: 48, textures: ramp2.bmp, textureSize: (64 * 64): file terrain_models.obj
+
+name: Ramp (+ v), modelId: 64, textures: ramp3.bmp, textureSize: (64 * 64), file: terrain_models.obj
+
+name: Ramp (-v), modelId: 80, textures: ramp4.bmp, textureSize: (64 * 64), file: terrain_models.obj
+
+name: Player, modelId: 1024: textures: (smiley0.bmp, smiley1.bmp), textureSize: (64 * 64), file: smiley_models.obj
+
+name: Message Tile, modelId: 933, textures: (char0.bmp, char1.bmp, char2.bmp, char3.bmp, char4.bmp, char5.bmp, char6.bmp, char7.bmp, char8.bmp, char9.bmp, char10.bmp, char11.bmp, char12.bmp, char13.bmp, char14.bmp, char15.bmp, char16.bmp, char17.bmp, char18.bmp, char19.bmp, char20.bmp, char21.bmp, char22.bmp, char23.bmp, char24.bmp, char25.bmp, char26.bmp, char27.bmp, char28.bmp, char29.bmp, char30.bmp, char31.bmp, char32.bmp, char33.bmp, char34.bmp, char35.bmp, char36.bmp, char37.bmp, char38.bmp, char39.bmp, char40.bmp, char41.bmp, char42.bmp, char43.bmp, char44.bmp, char45.bmp, char46.bmp, char47.bmp, char48.bmp, char49.bmp, char50.bmp, char51.bmp, char52.bmp, char53.bmp, char54.bmp, char55.bmp, char56.bmp, char57.bmp, char58.bmp, char59.bmp, char60.bmp, char61.bmp, char62.bmp, char63.bmp, char64.bmp, char65.bmp, char66.bmp, char67.bmp, char68.bmp, char69.bmp, char70.bmp, char71.bmp, char72.bmp, char73.bmp, char74.bmp, char75.bmp, char76.bmp, char77.bmp, char78.bmp, char79.bmp, char80.bmp, char81.bmp, highlight.bmp), textureSize: (64 * 64), file: message_models.obj
+
+name: Menu Background, modelId: 1027, textures: background.bmp, textureSize: (1280 * 960), file: message_models.obj
+
