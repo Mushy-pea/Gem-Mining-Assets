@@ -11,7 +11,7 @@ vt 0.75 0
 vn 0 0 0
 f 1/1/1 2/2/1 3/3/1 4/4/1
 ~
-1027, 1, 1280, 960, 0, background.bmp
+1027, 66, 320, 240, 0, background.bmp, button0.bmp, button1.bmp, button2.bmp, button3.bmp, button4.bmp, button5.bmp, button6.bmp, button7.bmp, button8.bmp, button9.bmp, button10.bmp, button11.bmp, button12.bmp, button13.bmp, button14.bmp, button15.bmp, button16.bmp, button17.bmp, button18.bmp, button19.bmp, button20.bmp, button21.bmp, button22.bmp, button23.bmp, button24.bmp, button25.bmp, button26.bmp, button27.bmp, button28.bmp, button29.bmp, button30.bmp, button31.bmp, button32.bmp, button33.bmp, button34.bmp, button35.bmp, button36.bmp, button37.bmp, button38.bmp, button39.bmp, button40.bmp, button41.bmp, button42.bmp, button43.bmp, button44.bmp, button45.bmp, button46.bmp, button47.bmp, button48.bmp, button49.bmp, button50.bmp, button51.bmp, button52.bmp, button53.bmp, button54.bmp, button55.bmp, button56.bmp, button57.bmp, button58.bmp, button59.bmp, button60.bmp, button61.bmp, button62.bmp, button63.bmp, button64.bmp
 ~
 v -1 1 0
 v 1 1 0
