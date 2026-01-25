@@ -1,6 +1,6 @@
 name: Wall, modelId: 0, textures: (wall1.bmp, wall2.bmp, wall3.bmp, wall4.bmp), textureSize: (64 * 64), file: terrain_models.obj
 
-name: Floor, modelId: 16, textures: (floor1.bmp, floor2.bmp, floor3.bmp, floor4.bmp), textureSize: (64 * 64), file: terrain_models.obj
+name: Floor, modelId: 16, textures: (floor0.bmp, floor1.bmp, floor2.bmp), textureSize: (64 * 64), file: terrain_models.obj
 
 name: Ramp (+ u), modelId: 32, textures: ramp1.bmp, textureSize: (64 * 64), file: terrain_models.obj
 
