@@ -20,3 +20,4 @@ name: Area Light, modelId: 96, textures: none, files: (terrain_models.obj, terra
 
 name: Column, modelId: 100, textures: (wall2.bmp), textureSize: (64 * 64), file: terrain_models.obj
 
+name: Door, modelId: 104, textures: (door.bmp), textureSize: (64 * 64), file: terrain_models.obj
